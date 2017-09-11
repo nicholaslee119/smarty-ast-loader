@@ -9,4 +9,13 @@ var ast = require("smarty-ast-loader!./file.tpl");
 var ast = require("./file.tpl");
 
 ```
+## test
+
+``` javascript
+
+npm test
+
+```
+
+
 
