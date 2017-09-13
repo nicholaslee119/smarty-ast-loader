@@ -13,7 +13,7 @@ var ast = require("./file.tpl");
 
 ``` javascript
 
-npm test
+$ npm test
 
 ```
 
